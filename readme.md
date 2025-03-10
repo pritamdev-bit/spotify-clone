@@ -1,0 +1,2 @@
+# Spotify frontend clone
+This is a clone of the Spotify web player. It is a frontend project that uses HTML, CSS & JS. It uses local songs to fetch data and play music. It is a simple project that uses the Spotify web player as a reference.
